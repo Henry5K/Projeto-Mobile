@@ -46,3 +46,8 @@ Criação de um aplicativo móvel sobre exercícios físicos: Impacto na vida da
 também podem ser adicionados para garantir que o usuário mantenha o foco em seus objetivos de fitness.
 > Por último o protótipo também deve ser fácil de usar e ter uma interface amigável para garantir que os usuários
 > possam acessar as informações e recursos de maneira rápida e fácil.
+
+# Feito por
+
+* 01531883 - Henry Thierry de Santana Silva
+* 01530700 - Eduardo Henrique Bezerra dos Santos
